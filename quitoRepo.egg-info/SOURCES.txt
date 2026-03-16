@@ -1,0 +1,7 @@
+README.md
+setup.py
+quitoRepo/__init__.py
+quitoRepo.egg-info/PKG-INFO
+quitoRepo.egg-info/SOURCES.txt
+quitoRepo.egg-info/dependency_links.txt
+quitoRepo.egg-info/top_level.txt
